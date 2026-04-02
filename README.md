@@ -13,6 +13,7 @@ By default, requests will be made with particular API config defaults,
 but RequestBuilder can be used to make custom calls. 
 
 Simple test example - com/api/ckappbeta/UserApiTest.java
+Did not add any crazy custom assertions - should be easy when needed.
 
 Note - one test actually fails due to mocked API data randomization (and that is OK).
 
